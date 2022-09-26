@@ -1,6 +1,6 @@
 # <h3 align="center"><i>Protect even pictures of kittens</i></h3>
 
-# <center><img src="https://media1.giphy.com/media/g7YDlrD5YLqfe/giphy.gif?cid=ecf05e47srutuonncdkyy0nqsprfc5k0scoa52g5d3hlayk7&rid=giphy.gif&ct=g" width="140" height="265"></center>
+<center><img src="https://media1.giphy.com/media/g7YDlrD5YLqfe/giphy.gif?cid=ecf05e47srutuonncdkyy0nqsprfc5k0scoa52g5d3hlayk7&rid=giphy.gif&ct=g" width="140" height="265"></center>
 
 # <h4 align="center">𝚂𝚔𝚒𝚕𝚕𝚜</h4>
 <p align="center">
