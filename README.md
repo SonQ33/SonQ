@@ -1,4 +1,4 @@
-# <h3 align="center"><i>Protect even pictures of kittens <img src = "https://media0.giphy.com/media/1lzOuCfVSkVBgXPoId/giphy.gif?cid=ecf05e4779pjoyuy8oz14tg6bn8tnue9m2dl1ulsojdlmavv&rid=giphy.gif&ct=s" width="120" height="50" ></i></h3>
+# <h3 align="center"><i>Protect even pictures of kittens <img src = "https://media0.giphy.com/media/1lzOuCfVSkVBgXPoId/giphy.gif?cid=ecf05e4779pjoyuy8oz14tg6bn8tnue9m2dl1ulsojdlmavv&rid=giphy.gif&ct=s" width="120" height="70" ></i></h3>
 
 
 
